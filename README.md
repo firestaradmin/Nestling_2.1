@@ -5,6 +5,8 @@ STM32F103ZET6的最小系统板及其扩展主板
 
 扩展板载：**8Mbit——SRAM、ESP8266EX-WIFI、MPU6050-陀螺仪、SSD1306-OLED屏、触摸按键KEY等**
 
+具体介绍：CSDN [点我传送](https://blog.csdn.net/yougeng123/article/details/106930737)
+
 ---
 
 - 最小系统板
